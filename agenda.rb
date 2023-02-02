@@ -1,7 +1,7 @@
 agenda = {
-  Ana: '8989-8989',
-  Clara: '8787-8787',
-  Pedro: '2323-2323'
+  Davyson: '7777-8888',
+  Douglas: '8181-8787',
+  Mudryk: '2323-2323'
 }
 
 while true
