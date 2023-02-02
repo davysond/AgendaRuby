@@ -1,3 +1,5 @@
+#coding: utf-8
+
 agenda = {
   Davyson: '7777-8888',
   Douglas: '8181-8787',
